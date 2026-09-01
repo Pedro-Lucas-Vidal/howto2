@@ -10,14 +10,14 @@
 /* Seletor por tipo / tag */
 main {
     max-width: 90%;
-    background-color: rgb(180, 25, 25);
+    background-color: rgb(87, 160, 87);
     margin: auto;
     padding: 2em;
 }
 
 /* Seletor por id */
 #secao1 { 
-    background-color: rgb(246, 124, 80);
+    background-color: rgb(114, 205, 225);
     font-size: 2em;
     font-weight: 800;
     color: white;
